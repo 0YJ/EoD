@@ -264,7 +264,7 @@ W-de.NBI-013, W-de.NBI-014, W-de.NBI-016, W-de.NBI-022), [Ultralytics YOLO](http
 [<img src="https://mdoa-tools.bi.denbi.de/mpacloud/assets/Denbi.svg" width="150" alt="denbi logo." />](https://www.denbi.de/)
 ## 🌟 Star History
 Like our project? Hit that `star` button at the top right and be our hero! We’ll serve you more open sauce! 🍲
-<!--
+
 <p align="center">
 <a href="https://www.star-history.com/#0YJ/TomatoMAP&type=date&legend=top-left">
  <picture>
@@ -280,7 +280,7 @@ Like our project? Hit that `star` button at the top right and be our hero! We’
  </picture>
 </a>
 </p>
--->
+
 ## 🖊 Citation
 
 If you use TomatoMAP in your research and think our project is useful, please cite:
