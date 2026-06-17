@@ -275,7 +275,7 @@ Like our project? Hit that `star` button at the top right and be our hero! We’
    <img 
      alt="Star History Chart" 
      src="https://api.star-history.com/svg?repos=0YJ/TomatoMAP&type=date&legend=top-left"
-     width="800"
+     width="400"
    />
  </picture>
 </a>
